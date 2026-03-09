@@ -12,6 +12,18 @@
             "github": "marcushines",
             "github_user_id": 80116818,
             "name": "Marcus Hines"
+        },
+        {
+            "email": "gmcfarlane@google.com",
+            "github": "gmacf",
+            "github_user_id": 31602864,
+            "name": "Gareth McFarlane"
+        },
+        {
+            "email": "mxz@google.com",
+            "github": "Chounoki",
+            "github_user_id": 221486928,
+            "name": "Michael Zhang"
         }
     ],
     "repository": [
@@ -20,7 +32,8 @@
     "versions": [
         "0.5.0",
         "0.6.0",
-        "0.6.1"
+        "0.6.1",
+        "0.6.2"
     ],
     "yanked_versions": {}
 }
